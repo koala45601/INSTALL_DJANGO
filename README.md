@@ -34,3 +34,4 @@ Install django start 17/2/2564
 
 9. open foloder django ที่ติดตั้ง
 
+10. สร้าง App ที่เราต้องการโดยใช้คำสั่ง python startapp myapp(Name App)
