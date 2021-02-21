@@ -35,3 +35,37 @@ Install django start 17/2/2564
 9. open foloder django ที่ติดตั้ง
 
 10. สร้าง App ที่เราต้องการโดยใช้คำสั่ง python startapp myapp(Name App)
+
+h1 Devleop start
+
+h2 Start Server virtualenv 
+
+go to path virtualenv and runcommand 
+
+- scripts\activate
+
+h2 start Django
+
+go to path django project and run command
+
+- python mange.py runserver
+
+h2 test connect to django page
+
+go to borwser and go to link 127.0.0.1:8000
+
+h2 create username password login sqlite3
+
+1.go to folder django project and run command
+
+- python mange.py migrate
+
+2.runcommand 
+
+- python mange.py createsuperuser
+
+3.go to link in borwser 127.0.0.1:8000/admin and use user/password (2) 
+
+
+คำสั่งที่ใช้ในการสร้างฐานข้อมูล sqlite3 
+- python man
