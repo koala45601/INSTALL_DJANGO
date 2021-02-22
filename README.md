@@ -10,6 +10,8 @@ Install django start 17/2/2564
 
 3.Create env(box) virtualenv (ชื่อ กล่องที่เราต้องการ)
 
+- virtualenv -p python3 envname
+
 4.Activate env 
 
 ******* Scripts\activate *********
